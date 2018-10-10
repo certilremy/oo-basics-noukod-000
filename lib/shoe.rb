@@ -14,6 +14,5 @@ end
 
 def red
   @red
-  
 end
 end
