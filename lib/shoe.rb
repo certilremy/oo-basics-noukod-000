@@ -8,11 +8,11 @@ def  brand
   @brand
 end
 
-def color(red)
-  @red = red
+def color=(color)
+@color = author
 end
 
-def red
-  @red
+def color
+@color
 end
 end
