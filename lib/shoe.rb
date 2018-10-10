@@ -9,7 +9,7 @@ def  brand
 end
 
 def color(color)
-  @color = red
+  @color = color
 end
 
 def color
