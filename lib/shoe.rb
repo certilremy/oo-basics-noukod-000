@@ -24,4 +24,9 @@ def size
   @size
 end
 
+def material=(material)
+  
+  
+end
+
 end
